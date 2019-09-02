@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1567383467 source:c:\users\ik_pa\onedrive\desktop\programacion\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567383450 c:\users\ik_pa\onedrive\desktop\programacion\tp1\funciones.h
+
