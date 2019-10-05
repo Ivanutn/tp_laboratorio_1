@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1570024003 source:c:\users\alumno\desktop\prog_agosto2019\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn_validaciones.h"
+
+1570024043 c:\users\alumno\desktop\prog_agosto2019\tp2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	"utn_validaciones.h"
+
+1570019926 c:\users\alumno\desktop\prog_agosto2019\tp2\utn_validaciones.h
+
+1570021097 source:c:\users\alumno\desktop\prog_agosto2019\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"utn_validaciones.h"
+	"ArrayEmployees.h"
+	"utn_menu.h"
+
+1570020496 source:c:\users\alumno\desktop\prog_agosto2019\tp2\utn_validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn_validaciones.h"
+
+1570024124 source:c:\users\alumno\desktop\prog_agosto2019\tp2\utn_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn_validaciones.h"
+
+1570020944 c:\users\alumno\desktop\prog_agosto2019\tp2\utn_menu.h
+
+1570233818 source:c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn_validaciones.h"
+
+1570233712 c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	"utn_validaciones.h"
+
+1570136728 c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp2\utn_validaciones.h
+
+1570230244 source:c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_validaciones.h"
+	"ArrayEmployees.h"
+	"utn_menu.h"
+
+1570041431 c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp2\utn_menu.h
+
+1570234519 source:c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp2\utn_menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"utn_validaciones.h"
+
+1570212058 source:c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp2\utn_validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn_validaciones.h"
+
