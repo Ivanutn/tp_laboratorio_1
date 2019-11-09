@@ -1,0 +1,162 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572873831 source:c:\users\alumno\desktop\prog_agosto2019\tp3\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572867399 c:\users\alumno\desktop\prog_agosto2019\tp3\tp3\win_64\linkedlist.h
+
+1572874975 c:\users\alumno\desktop\prog_agosto2019\tp3\tp3\win_64\employee.h
+
+1572875728 source:c:\users\alumno\desktop\prog_agosto2019\tp3\tp3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1572872057 source:c:\users\alumno\desktop\prog_agosto2019\tp3\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1572867399 c:\users\alumno\desktop\prog_agosto2019\tp3\tp3\win_64\controller.h
+
+1572874689 source:c:\users\alumno\desktop\prog_agosto2019\tp3\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1572872318 source:c:\users\alumno\desktop\prog_agosto2019\tp3\tp3\win_64\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_validaciones.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1572871553 source:c:\users\alumno\desktop\prog_agosto2019\tp3\tp3\win_64\utn_validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn_validaciones.h"
+
+1572871541 c:\users\alumno\desktop\prog_agosto2019\tp3\tp3\win_64\utn_validaciones.h
+
+1573258104 source:c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp3\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn_validaciones.h"
+
+1572485099 c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp3\tp3\win_64\linkedlist.h
+
+1573257691 c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp3\tp3\win_64\employee.h
+
+1573258018 source:c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp3\tp3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"menu.h"
+	"utn_validaciones.h"
+
+1573244214 source:c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp3\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"menu.h"
+
+1573245577 c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp3\tp3\win_64\controller.h
+
+1573258141 source:c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp3\tp3\win_64\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_validaciones.h"
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1573234127 c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp3\tp3\win_64\utn_validaciones.h
+
+1573256330 source:c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp3\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1573247125 source:c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp3\tp3\win_64\utn_validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn_validaciones.h"
+
+1572485099 c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp3\tp3\win_64\parser.h
+
+1572890521 c:\users\ik_pa\onedrive\desktop\programacion\prog_agosto2019\tp3\tp3\win_64\menu.h
+
